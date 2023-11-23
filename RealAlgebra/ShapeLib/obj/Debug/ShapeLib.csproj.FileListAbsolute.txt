@@ -1,0 +1,6 @@
+D:\.net\Day-14\RealAlgebra\ShapeLib\bin\Debug\ShapeLib.dll
+D:\.net\Day-14\RealAlgebra\ShapeLib\bin\Debug\ShapeLib.pdb
+D:\.net\Day-14\RealAlgebra\ShapeLib\obj\Debug\ShapeLib.csproj.AssemblyReference.cache
+D:\.net\Day-14\RealAlgebra\ShapeLib\obj\Debug\ShapeLib.csproj.CoreCompileInputs.cache
+D:\.net\Day-14\RealAlgebra\ShapeLib\obj\Debug\ShapeLib.dll
+D:\.net\Day-14\RealAlgebra\ShapeLib\obj\Debug\ShapeLib.pdb
